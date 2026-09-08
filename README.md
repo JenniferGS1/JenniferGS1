@@ -19,9 +19,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3200&pause=1100&color=A98BC9&center=false&vCenter=true&width=520&lines=Data+%26+Automation+Enthusiast;Turning+Problems+Into+Solutions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Bogotá,_Colombia-0D1117?style=for-the-badge&labelColor=B784C4&color=0D1117"/>
+<img src="https://img.shields.io/badge/Medellín,_Colombia-0D1117?style=for-the-badge&labelColor=B784C4&color=0D1117"/>
 <img src="https://img.shields.io/badge/Universidad_Nacional_de_Colombia-0D1117?style=for-the-badge&labelColor=8E6FBF&color=0D1117"/>
 
 </td>
